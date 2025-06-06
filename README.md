@@ -24,7 +24,7 @@ Esta é a aba principal do documento. Nela são listados os informes de rendimen
 
 
 - `Criação da aba NOTAS`:  
-A aba **NOTAS** especificar e periodizar as entradas de valores. Ela pode ser usada para esclarecer:
+A aba **NOTAS** especifica e periodiza as entradas de valores. Ela pode ser usada para esclarecer:
   - Data do recebimento
   - Categoria do recebimento (contracheque, recibo, etc.)
   - Valor do recebimento
@@ -35,7 +35,7 @@ A aba **NOTAS** especificar e periodizar as entradas de valores. Ela pode ser us
 ## 🖩 Fórmulas/Funções Utilizadas
 
 - `Validação de Dados`:  
-Foi aplicada para restringir as opções em campos específicos, garantindo que os usuários selecionem apenas valores válidos em listas pré-definidas. Isso evita erros de digitação e padroniza as respostas — especialmente útil em campos como bancos e campos com resposta 'SIM' e 'NÃO'.
+Foi aplicada para restringir as opções em campos específicos, garantindo que os usuários selecionem apenas valores válidos em listas pré-definidas. Isso evita erros de digitação e padroniza as respostas — especialmente útil em campos como bancos e campos com resposta "sim" e "não".
 
 - `Link (Hiperlink interno)`:  
 Algumas células foram configuradas com links que direcionam o usuário rapidamente para outras partes da planilha, facilitando a navegação entre as abas ou seções do documento.
@@ -48,7 +48,8 @@ Foram aplicados formatos específicos para:
   - **CPF** (`000\.000\.000\-00`)  
   - **Celular** (`(00) 00000\-0000`)  
   - **Telefone Fixo** (`(00) 0000\-0000`)
-  - **CEP** (formatação especial já incorporada nativamente) 
+  - **CEP** (formatação especial já incorporada nativamente)
+  - 
   Isso garante que os dados inseridos sigam o padrão oficial brasileiro, sem necessidade de ajustes manuais.
 
 - `Proteção de Planilha`:  
