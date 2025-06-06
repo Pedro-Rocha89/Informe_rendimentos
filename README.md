@@ -35,7 +35,7 @@ A aba **NOTAS** especificar e periodizar as entradas de valores. Ela pode ser us
 ## 🖩 Fórmulas/Funções Utilizadas
 
 - `Validação de Dados`:  
-Foi aplicada para restringir as opções em campos específicos, garantindo que os usuários selecionem apenas valores válidos em listas pré-definidas. Isso evita erros de digitação e padroniza as respostas — especialmente útil em campos como o tipo de rendimento.
+Foi aplicada para restringir as opções em campos específicos, garantindo que os usuários selecionem apenas valores válidos em listas pré-definidas. Isso evita erros de digitação e padroniza as respostas — especialmente útil em campos como bancos e campos com resposta 'SIM' e 'NÃO'.
 
 - `Link (Hiperlink interno)`:  
 Algumas células foram configuradas com links que direcionam o usuário rapidamente para outras partes da planilha, facilitando a navegação entre as abas ou seções do documento.
@@ -47,20 +47,27 @@ Utilizado para aplicar efeitos visuais nos títulos e seções principais da pla
 Foram aplicados formatos específicos para:
   - **CPF** (`000\.000\.000\-00`)  
   - **Celular** (`(00) 00000\-0000`)  
-  - **Telefone Fixo** (`(00) 0000\-0000`)  
+  - **Telefone Fixo** (`(00) 0000\-0000`)
+  - **CEP** (formatação especial já incorporada nativamente) 
   Isso garante que os dados inseridos sigam o padrão oficial brasileiro, sem necessidade de ajustes manuais.
 
 - `Proteção de Planilha`:  
 A planilha foi protegida para impedir alterações indesejadas nas fórmulas e células críticas. Apenas as áreas de entrada foram deixadas desbloqueadas para edição, garantindo a integridade do documento.
 
 - `Gráfico 3D`:  
-Na aba **INFORMES**, foi adicionado um **gráfico de colunas 3D** que representa visualmente os valores dos rendimentos por fonte pagadora. Esse recurso auxilia na análise rápida e comparativa entre os valores recebidos ao longo do ano.
+Na aba **INFORMES**, foi adicionado um **gráfico de pizza 3D** que representa visualmente os valores dos rendimentos por fonte pagadora. Esse recurso auxilia na análise rápida e comparativa entre os valores recebidos ao longo do ano.
+
+![image](https://github.com/user-attachments/assets/07974a9e-dff4-48c0-9546-3700a7865b07)
+
 
 ## 🧰 Ferramentas e Aplicativos Utilizados
 
 - ``Excel``  
-- (Opcional) ``Power Query`` – para automação de dados (não utilizado neste projeto, mas possível para versões futuras)
+- ``ChatGPT`` 
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedores
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/201495780?s=96&v=4" width=115><br><sub>Pedro Rocha</sub>](https://github.com/Pedro-Rocha89)
+
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/37452836?v=4" width=115><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode)
+
