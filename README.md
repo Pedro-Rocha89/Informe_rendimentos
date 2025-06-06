@@ -1,4 +1,4 @@
-# Gerador de Informe de Rendimentos em Excel
+# Gerador de Informe de Rendimentos no Excel
 
 
 ## 🧾 Descrição do Projeto  
