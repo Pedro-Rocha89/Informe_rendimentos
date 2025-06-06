@@ -8,7 +8,7 @@ O projeto consiste na criação de uma planilha de controle de dados para facili
 ## 📑 Etapas
 
 - `Criação da aba TITULAR`:  
-Nesta etapa foi criada a planilha onde o usuário insere os **dados declarante titular** (nome, CPF, etc.).
+Nesta etapa foi criada a planilha onde o usuário insere os **dados do declarante titular** (nome, CPF, etc.).
 
 ![image](https://github.com/user-attachments/assets/b0a85762-357c-4708-a0df-3894fc2d36ac)
 
